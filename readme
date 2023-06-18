@@ -14,3 +14,5 @@ User can login also register both are in the sam page
 Application front end created using React and backe-end with Node and back-end port is 3002 and front-end is 3000 should follow this.
 
 can send image , this is done by using Cloundinary , So you have to give " REACT_APP_CLOUDINARY_ID " and " REACT_APP_CLOUDINARY_PRESET " in .env
+
+Also admin can add built-in messages
