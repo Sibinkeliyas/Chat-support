@@ -1,0 +1,8 @@
+Thiis is Chat support , so there is some built-in chat and also admin can chat , there is no option for create admin so i have created admin 
+
+Admin email : admin@gmail.com 
+      password : 12345
+      
+Application front end created using React and backe-end with Node and back-end port is 3002 and front-end is 3000 should follow this.
+
+can send image , this is done by using Cloundinary , So you have to give " REACT_APP_CLOUDINARY_ID " and " REACT_APP_CLOUDINARY_PRESET " in .env
