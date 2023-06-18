@@ -2,7 +2,15 @@ Thiis is Chat support , so there is some built-in chat and also admin can chat ,
 
 Admin email : admin@gmail.com 
       password : 12345
+
+for admin login page 
+
+http://localhost:3000/admin-login ,
+
+
       
+User can login also register both are in the sam page
+
 Application front end created using React and backe-end with Node and back-end port is 3002 and front-end is 3000 should follow this.
 
 can send image , this is done by using Cloundinary , So you have to give " REACT_APP_CLOUDINARY_ID " and " REACT_APP_CLOUDINARY_PRESET " in .env
